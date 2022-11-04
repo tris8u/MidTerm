@@ -1,0 +1,50 @@
+@import url('./layout.css');
+
+body{
+    display: flex;
+flex-direction: column;
+gap: 1em;
+
+}
+   
+
+header{
+background-image: url(../images/dylan-leagh-o3eZxJRrNRQ-unsplash.jpg);
+    background: size 100px;
+    height: 250px;
+background-position: center;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+main{
+    background-size: 250px;
+    height: 250px;
+    }
+aside{
+    background-image: url(../images/boo-the-dog.jpg);
+ background-size: 400px;
+
+
+}
+aside h2{
+    text-align: left;
+}
+footer{
+    text-align: center;
+    padding: 1em;
+    margin-top: 1em;
+}
+    
+    
+
+
+
+
+
+
+    
+
+
+
+
